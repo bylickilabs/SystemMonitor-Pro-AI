@@ -4,6 +4,8 @@
 **SystemMonitor Pro AI** is an advanced desktop monitoring application designed for deep real-time system analytics.  
 It merges classical hardware monitoring with adaptive machine-learning logic to detect anomalies, peaks, and unusual system behavior.
 
+| <img width="1280" height="640" alt="system" src="https://github.com/user-attachments/assets/9333b761-5572-475a-bfd9-a3a951fee3cb" /> |
+|---|
 The application runs fully offline and is ideal for professional and security-sensitive environments.
 
 ---
