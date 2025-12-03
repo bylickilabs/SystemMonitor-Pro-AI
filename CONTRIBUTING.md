@@ -46,7 +46,7 @@ When reporting a bug, please include:
 - **Logs / error messages** (tracebacks, console output)  
 - Optional: screenshots or short screencasts  
 
-⚠ Security-related bugs should **not** be submitted as public issues → see SECURITY.md and use **bylicki@mail.de**.
+⚠ Security-related bugs should **not** be submitted as public issues → see [SECURITY](SECURITY.md) and use **bylicki@mail.de**.
 
 ---
 
